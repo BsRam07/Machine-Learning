@@ -1,0 +1,2 @@
+# Machine-Learning
+ML algorithms are those that can learn from data and improve from experience, without human intervention. Learning tasks may include learning the function that maps the input to the output, learning the hidden structure in unlabeled data; or ‘instance-based learning’, where a class label is produced for a new instance by comparing the new instance (row) to instances from the training data, which were stored in memory. ‘Instance-based learning’ does not create an abstraction from specific instances.
